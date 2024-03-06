@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Meet Wyvern!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Meet%20Wyvern!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 In the earlier days of the internet, communities were self-hosted and projects
